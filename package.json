@@ -1,6 +1,6 @@
 {
-  "name": "@tulaoda/cron-editor",
-  "version": "1.0.1-beta.0",
+  "name": "@weloyun/cron-editor",
+  "version": "1.0.3",
   "description": "基于antd、react的crontab表达式生成工具",
   "main": "./dist/index",
   "scripts": {
